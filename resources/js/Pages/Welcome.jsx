@@ -46,7 +46,7 @@ export default function Welcome({ auth, canLogin }) {
                         <div className="grid gap-4">
                             {[
                                 ['Capital objetivo', '$50.000.000 COP'],
-                                ['Retorno proyectado', '120% a 150%'],
+                                ['Retorno proyectado', '110% a 130%'],
                                 ['Modalidades', 'Dinero, beneficios y experiencias'],
                                 ['Cobertura', 'Música, cultura, educación y expansión'],
                             ].map(([label, value]) => (
